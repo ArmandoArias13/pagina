@@ -1,0 +1,133 @@
+.col1{
+    width: 100px;
+    height: 40px;
+    background-color: red;
+    color: white;
+}
+.col2{
+    width: 100px;
+    height: 40px;
+    background-color: yellow;
+    color: blue;
+}
+
+.col3{
+    width: 100px;
+    height: 40px;
+    background-color: green;
+    color: blue;
+}
+
+.img-inicio{
+    height: 150px;
+}
+.link-inicio{
+    text-decoration: none;
+    color:#CDDC39;
+}
+.link-inicio:hover{
+    color: rgb(243, 167, 14);
+}
+
+.boton1{
+    color: #455A64 ; 
+    background-color:#C8E6C9;
+}
+.boton2 {
+    color: #455A64 ; 
+    background-color: #E8F5E9 ;
+}
+.boton3 {
+    color: #455A64 ; 
+    background-color: #C8E6C9;
+}
+.miclase1{
+    color: #455A64;
+}
+
+.acordion{
+    font-weight: none;
+}
+.textoacordes{
+    color:rgb(16, 109, 122)
+}
+
+.nav-item .nav-link-tonos button{
+    color: aquamarine;
+}
+.b{
+    color: rgb(93, 219, 15);
+}
+#home-tab{
+    color: rgb(2, 150, 243);
+}
+.miclase{
+    color:rgb(246, 255, 0);
+}
+.armando-nav{
+    background-color:#FF99CC ;
+}
+.list-group-item.active{
+    background-color: rgb(0, 187, 255);
+    border-color: rgb(0, 68, 255);
+  }
+  .nav-link-mio{
+    color:rgb(2, 150, 243);
+  }
+  .nav-link-mio:hover{
+    color:rgb(0, 98, 255);
+  }
+  .nav-link-mio.active{
+    color:blueviolet;
+  }
+  body {
+    background-image: url("");
+    background-repeat:repeat;
+    background-color: white;
+  }
+
+  @font-face { font-family: armandofuente; src: url('../fonts/FredokaOne-Regular.ttf'); } 
+  h4 {
+    font-family: armandofuente;
+  }
+
+  @font-face { font-family: armandofuenteh5; src: url('../fonts/FredokaOne-Regular.ttf'); } 
+  h5 {
+    font-family: armandofuenteh5;
+  }
+  @font-face { font-family: armandofuenteh5; src: url('../fonts/'); } 
+  h3 {
+    font-family: armandofuenteh5;
+  }
+
+  .textoabajo{
+    color: #80DEEA ;
+
+  }
+  .textprin{
+    color:#FF8A65;
+  }
+ 
+  /*aqui tengo las imagenes principales*/
+
+  .img1{
+   width:230px ; height:230px ;
+   position: relative; left: -70px; right: 5px;
+  }
+  .img2{
+    width:280px ; height:270px ;
+    position: relative; left: 70px; right: 5px;
+   }
+   .img4{
+    width:280px ; height:270px ;
+    position: relative; left: 120px; right: 355px;
+   } 
+   .img5{
+    width:250px ; height:250px ;
+    position: relative; left: 240px; right: 155px;
+   } 
+
+  .textacor{
+    color: #C0CA33 ;
+  }
+
